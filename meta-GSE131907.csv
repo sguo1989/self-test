@@ -1,0 +1,59 @@
+﻿Patient.ID,Sample.ID,Tissue.Origin,Tumour Status,Sex,Age,Smoking,Pathology,EGFR,Stage,Remarks
+P0001,LUNG_N01,Tissue-Lung,Nor-Lung,Female,70,Never,MD,WT,1,IA
+P0006,LUNG_N06,Tissue-Lung,Nor-Lung,Male,54,Ex,MD,na,1,IA
+P0008,LUNG_N08,Tissue-Lung,Nor-Lung,Female,60,Never,MD,L858R,1,IB
+P0009,LUNG_N09,Tissue-Lung,Nor-Lung,Male,67,Ex,PD,WT,2,IIA
+P0018,LUNG_N18,Tissue-Lung,Nor-Lung,Male,62,Ex,MD,del19,1,IA
+P0019,LUNG_N19,Tissue-Lung,Nor-Lung,Male,53,Cur,WD,exon 20,1,IA
+P0020,LUNG_N20,Tissue-Lung,Nor-Lung,Male,55,Cur,PD,WT,1,IA
+P0028,LUNG_N28,Tissue-Lung,Nor-Lung,Male,73,Cur,na,WT,3,IIIA
+P0030,LUNG_N30,Tissue-Lung,Nor-Lung,Male,56,Never,na,del19,1,IA
+P0031,LUNG_N31,Tissue-Lung,Nor-Lung,Male,65,Ex,na,WT,3,IIIA
+P0034,LUNG_N34,Tissue-Lung,Nor-Lung,Male,64,Never,MD,WT,1,IA3
+P0006,LUNG_T06,Tissue-Lung,Ear-Lung,Male,54,Ex,MD,na,1,IA
+P0008,LUNG_T08,Tissue-Lung,Ear-Lung,Female,60,Never,MD,L858R,1,IB
+P0009,LUNG_T09,Tissue-Lung,Ear-Lung,Male,67,Ex,PD,WT,2,IIA
+P0018,LUNG_T18,Tissue-Lung,Ear-Lung,Male,62,Ex,MD,del19,1,IA
+P0019,LUNG_T19,Tissue-Lung,Ear-Lung,Male,53,Cur,WD,exon 20,1,IA
+P0020,LUNG_T20,Tissue-Lung,Ear-Lung,Male,55,Cur,PD,WT,1,IA
+P0025,LUNG_T25,Tissue-Lung,Ear-Lung,Male,69,Ex,na,WT,1,IA
+P0028,LUNG_T28,Tissue-Lung,Ear-Lung,Male,73,Cur,na,WT,3,IIIA
+P0030,LUNG_T30,Tissue-Lung,Ear-Lung,Male,56,Never,na,del19,1,IA
+P0031,LUNG_T31,Tissue-Lung,Ear-Lung,Male,65,Ex,na,WT,3,IIIA
+P0034,LUNG_T34,Tissue-Lung,Ear-Lung,Male,64,Never,MD,WT,1,IA3
+P1006,EBUS_06,Tissue-Lung,Lat-Lung,Male,69,Cur,PD,WT,4,IV
+P1028,EBUS_28,Tissue-Lung,Lat-Lung,Male,52,Ex,na,WT,4,IV
+P1049,EBUS_49,Tissue-Lung,Lat-Lung,Male,63,Cur,PD,WT,4,IV
+P1058,BRONCHO_58,Tissue-Lung,Lat-Lung,Female,80,Never,PD,na,4,IV
+P1010,EBUS_10,Tissue-LU.LN,Met-LN,Male,68,Ex,na,WT,4,IV
+P1011,BRONCHO_11,Tissue-LU.LN,Met-LN,Female,81,Never,na,L858R,4,IV
+P1012,EBUS_12,Tissue-LU.LN,Met-LN,Female,60,Never,na,WT,4,IV
+P1013,EBUS_13,Tissue-LU.LN,Met-LN,Male,53,Cur,PD,WT,4,IV
+P1015,EBUS_15,Tissue-LU.LN,Met-LN,Male,64,Cur,na,exon 18 (G719X)  exon 20 (S768I),3,IIIA
+P1019,EBUS_19,Tissue-LU.LN,Met-LN,Female,68,Never,na,del19,4,IV
+P1051,EBUS_51,Tissue-LU.LN,Met-LN,Male,43,Ex,na,WT,4,IV
+P2001,LN_01,Tissue-LU.LN,Nor-LN,Male,61,Cur,PD,WT,2,IIB
+P2002,LN_02,Tissue-LU.LN,Nor-LN,Female,66,Never,MD,L858R,1,IB
+P2003,LN_03,Tissue-LU.LN,Nor-LN,Male,67,Ex,MD,L858R,2,IIB
+P2004,LN_04,Tissue-LU.LN,Nor-LN,Male,67,Cur,MD,L858R,1,IA2
+P2005,LN_05,Tissue-LU.LN,Nor-LN,Female,56,Never,MD,del19,1,IA3
+P2006,LN_06,Tissue-LU.LN,Nor-LN,Female,63,Never,MD,na,1,IA3
+P2007,LN_07,Tissue-LU.LN,Nor-LN,Male,68,Ex,MD,WT,1,IA
+P2008,LN_08,Tissue-LU.LN,Nor-LN,Female,77,Never,MD,WT,1,IB
+P2011,LN_11,Tissue-LU.LN,Nor-LN,Male,74,Never,MD,L858R,1,IB
+P2012,LN_12,Tissue-LU.LN,Nor-LN,Male,62,Cur,MD,WT,1,IA
+P1006,EFFUSION_06,Tissue-LU.PE,PE,Male,69,Cur,PD,WT,4,IV
+P1011,EFFUSION_11,Tissue-LU.PE,PE,Female,81,Never,na,L858R,4,IV
+P1012,EFFUSION_12,Tissue-LU.PE,PE,Female,60,Never,na,WT,4,IV
+P1013,EFFUSION_13,Tissue-LU.PE,PE,Male,53,Cur,PD,WT,4,IV
+P1064,EFFUSION_64,Tissue-LU.PE,PE,Male,61,Ex,na,na,4,IV
+P3002,NS_02,Tissue-LU.GL,Met-Brain,Female,46,Never,na,WT,4,IV
+P3003,NS_03,Tissue-LU.GL,Met-Brain,Female,81,Never,na,p.L858R,4,IV
+P3004,NS_04,Tissue-LU.GL,Met-Brain,Male,39,Ex,na,WT,4,IV
+P3006,NS_06,Tissue-LU.GL,Met-Brain,Male,59,Ex,PD,WT,4,IV
+P3007,NS_07,Tissue-LU.GL,Met-Brain,Female,64,Never,na,WT,4,IV
+P3012,NS_12,Tissue-LU.GL,Met-Brain,Female,59,Never,na,del19 & L858R,4,IV
+P3013,NS_13,Tissue-LU.GL,Met-Brain,Female,50,Ex,na,G719S & S768I ,4,IV
+P3016,NS_16,Tissue-LU.GL,Met-Brain,Male,69,Cur,PD,WT,3,IIIA
+P3017,NS_17,Tissue-LU.GL,Met-Brain,Female,56,Never,na,na,4,IV
+P3019,NS_19,Tissue-LU.GL,Met-Brain,Female,44,Never,na,na,4,IV
